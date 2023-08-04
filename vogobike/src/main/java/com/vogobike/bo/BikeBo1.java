@@ -9,6 +9,15 @@ public class BikeBo1 {
 	private String manufacture;
 	private String rtaRegistrationNo;
 	private double price;
+	private String RTONumber;
+	
+	
+	public String getRTONumber() {
+		return RTONumber;
+	}
+	public void setRTONumber(String rTONumber) {
+		RTONumber = rTONumber;
+	}
 	public int getBikeNo() {
 		return bikeNo;
 	}
