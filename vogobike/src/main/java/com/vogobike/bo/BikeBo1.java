@@ -10,6 +10,7 @@ public class BikeBo1 {
 	private String rtaRegistrationNo;
 	private double price;
 	private String RTONumber;
+	private String color;
 	
 	
 	public String getRTONumber() {
