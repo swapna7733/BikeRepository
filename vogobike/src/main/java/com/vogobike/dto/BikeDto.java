@@ -8,6 +8,7 @@ public class BikeDto {
 	private String bikeModelName;
 	private String manufacture;
 	private double price;
+                 private String colour;
 	public String getBikeModelName() {
 		return bikeModelName;
 	}
